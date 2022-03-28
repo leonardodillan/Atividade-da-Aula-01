@@ -1,21 +1,21 @@
 .div1{
-    background-color:#FFA500; width: 500px; height: 500px;
+    background-color:#75c441; width: 400px; height: 400px;
 }
 .div2{
-    width: 250px;
-    height: 250px;
-    background-color: rgb(155, 230, 80);
+    width: 300px;
+    height: 300px;
+    background-color: rgb(112, 194, 176);
 }
 .div3{
-    background-color: rgb(76, 209, 165);
-    width: 50%;
-    height: 50vh
+    background-color: rgb(128, 61, 17);
+    width: 35%;
+    height: 30vh;
 }
 .div4{
-    background-color: rgb(241, 45, 45);
-    width: 50vh;
-    height: 50%;
+    background-color: rgb(219, 59, 59);
+    width: 55vh;
+    height: 42%;
 }
 p{
-    color: white; background-color: red; font-size: 25px; font-family: monospace;
+    color: rgb(3, 2, 2); background-color: rgb(74, 72, 194); font-size: 41px; font-family: 'Times New Roman', Times, serif;
 }
